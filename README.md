@@ -1,7 +1,7 @@
-# Projeto Arduino: Botão, Buzzer, Sensor, Alarme e Luz/Som
+# Projeto Arduino: Botão, Buzzer, Sensor, Alarme, Luz e Som
 
 ## Descrição
-Este projeto foi criado para praticar e demonstrar o uso de componentes básicos com o Arduino. Inclui exemplos de como utilizar um botão, um buzzer, um sensor e um alarme, todos os projetos estão separados, no qual deixei em pasta dizendo para que foi feito e sua função.
+Este projeto foi criado para praticar e demonstrar o uso de componentes básicos com o Arduino. Inclui exemplos de como utilizar um botão, um buzzer, um sensor e um alarme, luzes (LEDs) e som todos os projetos estão separados, no qual deixei em pasta dizendo para que foi feito e sua função.
 
 ## Componentes Utilizados
 - Arduino Uno
@@ -12,6 +12,7 @@ Este projeto foi criado para praticar e demonstrar o uso de componentes básicos
 - Resistores
 - Jumpers
 - Protoboard
+- Alto-falante
 
 ## Estrutura do Projeto
 1. **Botão**
@@ -25,6 +26,12 @@ Este projeto foi criado para praticar e demonstrar o uso de componentes básicos
    
 4. **Alarme**
    - Combina todos os componentes acima para criar um sistema de alarme básico que aciona o buzzer quando o sensor detecta movimento.
+  
+5. **Som**
+   - Exemplo de como gerar diferentes sons utilizando um alto-falante.
+
+6.  **Alarme**
+   - Combina todos os componentes acima para criar um sistema de alarme básico que aciona o buzzer e o LED quando o sensor detecta movimento.
      
 ## Como Usar
 1. Conecte todos os componentes conforme o esquema de ligação fornecido.
