@@ -1,4 +1,4 @@
-# Projeto Arduino: Botão, Buzzer, Sensor e Alarme
+# Projeto Arduino: Botão, Buzzer, Sensor, Alarme e Luz/Som
 
 ## Descrição
 Este projeto foi criado para praticar e demonstrar o uso de componentes básicos com o Arduino. Inclui exemplos de como utilizar um botão, um buzzer, um sensor e um alarme, todos os projetos estão separados, no qual deixei em pasta dizendo para que foi feito e sua função 
